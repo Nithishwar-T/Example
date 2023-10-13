@@ -1,0 +1,53 @@
+
+.top{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 70px;
+}
+
+h1{
+    
+    font-size: 100px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+ul li{
+    
+    list-style: none;
+    float: left;
+   
+    font-size: 30px;
+    font-style: oblique;
+    
+    font-family: cursive;
+    font-weight: 200;
+    background-color: rgb(231, 104, 0)
+}
+
+.head{
+    background-color: rgb(22, 94, 145);
+}
+
+.navbar{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    font-style: oblique;
+    
+    background-color: rgb(231, 104, 0);
+    
+}
+
+h2{
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 75px;
+    font-style: oblique;
+    
+}
+
+.orange{
+    background-color: orange;
+}
+
